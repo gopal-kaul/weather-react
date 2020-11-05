@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.card{
+  padding-top: 1px;
+  padding-bottom: 1rem;
+  border-radius: 0px;
+  border-width: 0px;
+}
+body{
+  background-image: url('./img/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
